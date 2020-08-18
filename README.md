@@ -15,3 +15,9 @@ When you want to use the ShareX Uploader or you updated some info, just double c
 ## Where to host if i can't pay for hosting
 
 I recommend repl.it and Glitch. I personally tested on repl.it, and it works super well. I did not have to change anything. Glitch should work too, but i did not test in it.
+
+## I want to use it but my storage space is limited
+
+I will later add a way to store files in other platforms (such as imgur), and that will take less storage.
+The only thing is that it will probably take some kind of database system, such as MongoDB.
+So it will run out of storage at some point, but because the files themselves are not hosted on your host, it will take way less storage.
