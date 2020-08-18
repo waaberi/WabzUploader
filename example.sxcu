@@ -1,0 +1,12 @@
+{
+  "Name": "Wabz Uploader",
+  "DestinationType": "ImageUploader, TextUploader, FileUploader",
+  "RequestType": "POST",
+  "RequestURL": "http://localhost:3000/upload/",
+  "Headers": {
+    "key": "YOURTOKENHERE"
+  },
+  "FileFormName": "sharex",
+  "ResponseType": "Text",
+  "URL": "http://localhost:3000/$json:url$"
+}

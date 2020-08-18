@@ -1,0 +1,12 @@
+{
+  "Name": "Wabz Uploader",
+  "DestinationType": "ImageUploader, TextUploader, FileUploader",
+  "RequestType": "POST",
+  "RequestURL": "https://WabzUploader.rblxploit.repl.co/upload/",
+  "Headers": {
+    "key": "WaaberiIsTheBestBro123"
+  },
+  "FileFormName": "sharex",
+  "ResponseType": "Text",
+  "URL": "https://WabzUploader.rblxploit.repl.co/$json:url$"
+}
